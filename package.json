@@ -23,7 +23,6 @@
     "node": ">= 0.10.25"
   },
   "dependencies": {
-    "hapi": "6.x",
     "sqlite3": "~2.2.3",
     "sequelize": "~1.7.9"
   },
